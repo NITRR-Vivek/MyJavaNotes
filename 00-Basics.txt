@@ -1,0 +1,18 @@
+James Gosling
+1991 -> 1996 (first version)
+James Gosling + Vinod Khosla -> Sun Microsystem
+
+Naming: Oak -> Silk -> Java
+
+J2SE - Java Standard Edition
+J2EE - Java Enterprise Edition
+J2ME - Java Micro Edition
+JSP - Java Server Pages
+
+Java: Platform Independent Language
+
+First.java-> (compiler) -> First.class -> (Interpreter) -> JVM of any platform
+
+Features:-
+MultiThreading
+Garbage Collection
