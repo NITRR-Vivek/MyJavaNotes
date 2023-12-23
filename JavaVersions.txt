@@ -1,0 +1,43 @@
+Java 1.0 - Jan23, 1996 : Initial Release of Java with applets, basic libraries, and core functionalities.
+
+Java 1.1 - Feb19, 1997 : Inner classes, JDBC(Java Database Connectivity), AWT event model.
+
+Java 1.2 - Dec8, 1998 : Swing GUI toolkit, collections framework, JIT (Just in Time) compiler.
+
+Java 1.3 - May8, 2000 : HotSpot JVM (Java Virtual Machine), RMI over IIOP (CORBA interoperability).
+
+Java 1.4 - Feb6, 2002 : Assertions, logging API, regular expressions, improved memory model.
+
+Java 1.5 - Sep30, 2004 : Generics, metadata annotations, enumerated types, enhanced for loop.
+
+Java 1.6 - Dec11, 2006 : Scripting API, pluggable annotations, improvements in JVM and runtime.
+
+Java 1.7 - Jul28, 2011 : Diamond operator, try-with-resources ,strings in switch, NIO improvements.
+
+Java 1.8 - Mar18, 2014 : Lambda expressions, Stream API, default methods, new Date and Time API.
+
+Java 9 - Sep21, 2017 : Modular system (Project Jigsaw), New HTTP Client, Java 9 REPL(JShell).
+
+Java 10 - Mar20, 2018 : Local variable type inference, Garbage Collector interface, App Class-Data Sharing.
+
+Java 11 - Sep25, 2018 : HTTP Client, Dynamic Class-File Constants, Epsilon GC, Nest-Based Access Control.
+
+Java 12 - Mar19, 2019 : Switch expressions(Preview), Teeing Collectors, Compact Numbering Formatting.
+
+Java 13 - Sep17, 2019 : Text blocks(Preview), Enhancement in switch expressions, ZGC.
+
+Java 14 - Mar17, 2020 : Pattern matching for instanceof(Preview), Records(Preview), JFR Event Streaming.
+
+Java 15 - Sep15, 2020 : Sealed classes(Preview), Hidden classes, EdDSA, Removed Nashorn Engine.
+
+Java 16 - Mar16, 2021 : Records, Pattern Matching, Vector API(Prev), Foreign memory-access API(prev).
+
+Java 17 - Sep14, 2021 : Pattern Matching for switch(P), Sealed Classes, Foreign function and memory API(I).
+
+Java 18 - Mar22, 2022 : UTF-8 by Default Simple Web Server, Code snippets in API Documentation.
+
+Java 19 - Sep20, 2022 : Record Patterns(Preview), Virtual Threads(Prev), Structured Concurrency(I).
+
+Java 20 - Mar21, 2023 : Scoped Values (I), Virtual THreads (P).
+
+Java 21 - Sep19, 2023 : Sequenced Collections, Record Patterns, Virtual Threads, Key Encapsulations Mech API.
