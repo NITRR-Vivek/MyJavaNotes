@@ -1,11 +1,11 @@
 class Area {
 	private int x;
 	private static int y;
-void fun1(){
+void fun1(){	//This is default non static function
 	x=10;
 	y=15;
 }
-void fun2(){
+void fun2(){	//This is default non static function
 	System.out.println(x);
 	System.out.println(y);
 }
