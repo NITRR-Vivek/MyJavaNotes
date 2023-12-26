@@ -1,3 +1,5 @@
+//Wrapper classes in java : 
+// Boolean, Character, Byte, Short, Integer, Long, Float, Double
 class WrapperClass 
 {
 	public static void main (String []args){
