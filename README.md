@@ -1,7 +1,7 @@
 # **Java Notes and Code Repository**
 
 Welcome to the **Java Notes and Code Repository**! 🚀  
-This repository is a comprehensive guide to mastering Java, covering everything from the basics to advanced topics, including the latest features up to **Java 21**.
+This repository is a complete guide to mastering Java, covering everything from the basics to advanced topics, including the latest features up to **Java 21**.
 
 ---
 
